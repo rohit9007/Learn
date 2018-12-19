@@ -1,2 +1,1 @@
-echo 
-"how are u  " 
+echo "how are u  " 
