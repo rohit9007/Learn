@@ -1,1 +1,2 @@
-hello ho wr u 
+echo 
+"how are u  " 
